@@ -47,5 +47,8 @@
         {
             "path": "img", "addressable": true
         }
+    ],
+    "scopes":[
+        "vso.work"
     ]
 }
